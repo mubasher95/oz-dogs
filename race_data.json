@@ -1,0 +1,74 @@
+[
+  {
+    "Heat": "R1",
+    "Fin": "1st",
+    "T": "1",
+    "Dogname": "Opal Glitter",
+    "1ST SEC": "6.69",
+    "2ND SEC": "11.83",
+    "TIME": "22.93",
+    "Btn": "\u2014",
+    "SP": "$2.30",
+    "Status": true
+  },
+  {
+    "Heat": "R1",
+    "Fin": "2nd",
+    "T": "4",
+    "Dogname": "Go Forward Daisy",
+    "1ST SEC": "6.73",
+    "2ND SEC": "11.83",
+    "TIME": "23.02",
+    "Btn": "1.25",
+    "SP": "$10.00",
+    "Status": true
+  },
+  {
+    "Heat": "R1",
+    "Fin": "3rd",
+    "T": "7",
+    "Dogname": "Blue Jean",
+    "1ST SEC": "6.79",
+    "2ND SEC": "11.95",
+    "TIME": "23.12",
+    "Btn": "2.50",
+    "SP": "$1.65",
+    "Status": true
+  },
+  {
+    "Heat": "R1",
+    "Fin": "4th",
+    "T": "5",
+    "Dogname": "Major Fernando",
+    "1ST SEC": "6.86",
+    "2ND SEC": "12.05",
+    "TIME": "23.13",
+    "Btn": "2.75",
+    "SP": "$71.00",
+    "Status": true
+  },
+  {
+    "Heat": "R1",
+    "Fin": "5th",
+    "T": "8",
+    "Dogname": "Pattaya Pete",
+    "1ST SEC": "6.89",
+    "2ND SEC": "12.12",
+    "TIME": "23.32",
+    "Btn": "5.50",
+    "SP": "$23.00",
+    "Status": true
+  },
+  {
+    "Heat": "R1",
+    "Fin": "6th",
+    "T": "2",
+    "Dogname": "Big Town Shelly",
+    "1ST SEC": "6.88",
+    "2ND SEC": "12.22",
+    "TIME": "23.40",
+    "Btn": "6.50",
+    "SP": "$71.00",
+    "Status": true
+  }
+]

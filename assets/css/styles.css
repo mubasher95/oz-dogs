@@ -1,0 +1,68 @@
+@media screen and (min-width: 1200px) {
+    .app-wrapper {
+        margin-left: 0;
+    }
+}
+.text-theme{
+    color: #17c1e8 !important;
+}
+.app-sidepanel .app-nav-main {
+     overflow-y: initial;
+}
+.side-tabs li{
+    width: 50%;
+}
+.app-header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.tab-container-one .nav-link {
+    color: #252930;
+}
+.tab-container-one .nav-link:hover {
+    color: #17c1e8;
+}
+.tab-container-one .nav-link.active {
+    color: #17c1e8;
+    background: #edfdf6;
+    border-left: 3px solid #17c1e8;
+    font-weight: 500;
+}
+.nav-tabs .nav-link{
+    padding: 5px 20px;
+}
+.form-control, .form-select{
+    padding: 5px;
+    border: none;
+    height: auto;
+    border-bottom: 1px solid #17c1e8;
+    border-radius: 0;
+}
+.dataTables_wrapper .form-select{
+    padding-top: 0.25rem !important;
+    padding-bottom: 0.25rem !important;
+    padding-left: 0.5rem !important;
+    padding-right: 2.25rem;
+}
+.form-group{
+    margin-bottom: 15px;
+}
+
+.scroll {
+    overflow: auto;
+}
+
+.scroll::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    background-color: #F5F5F5;
+}
+
+.scroll::-webkit-scrollbar {
+    width: 6px;
+    background-color: #F5F5F5;
+}
+
+.scroll::-webkit-scrollbar-thumb {
+    background-color: #17c1e8;
+}
